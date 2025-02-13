@@ -1,0 +1,6 @@
+displayName: Signature Verification
+type: middleware
+import: github.com/othmane222/traefik-signature-plugin
+summary: Verify request signatures using SHA-256 and base64 encoding
+testData:
+  secretClient: Oj2eKc2nZwzTIRYBWEmOT4rKggn53meG
