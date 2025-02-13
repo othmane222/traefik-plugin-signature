@@ -1,5 +1,3 @@
-module github.com/othmane222/traefik-signature-plugin
+module github.com/othmane222/traefik-plugin-signature
 
 go 1.19
-
-require github.com/containous/traefik/v2 v2.9.10
